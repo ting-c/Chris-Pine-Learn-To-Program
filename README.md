@@ -3,7 +3,7 @@ My solutions to the Chris Pine's Ruby online [free book](https://pine.fm/LearnTo
 
 Below are the problems given in the book.
 
-**name.rb**
+### name.rb
 Full name greeting. Write a program that asks for a person’s first name, then middle, and then last. Finally, it should greet the person using their full name.
     
 **favnum.rb**
